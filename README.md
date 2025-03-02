@@ -19,8 +19,11 @@
 - String이 final인 이유는 무엇인가요? - (나겸)
 - 데이터 직렬화(Serialization)과 역직렬화(Deserialization)에 대해서 설명해 주세요. - (정민)
 - Java Serialization은 왜 만들어졌고, 어떤 단점들이 있을까요? - (정민)
+  - [직렬화 역직렬화](https://luxurious-syzygy-94d.notion.site/1a9e21d1cc3d8088b25aea63a924c329?pvs=74)
 - Java Generic에 대해서 설명해 주세요. - (정민)
 - Java Generic의 반공변, 공변, 무공변은 무엇인지 설명해주세요. - (정민)
+  - [제네릭](https://luxurious-syzygy-94d.notion.site/1aae21d1cc3d80429ce0caadd6e7bfd2)
+  - [계산기 만들다 제네릭한테 맞은 썰](https://luxurious-syzygy-94d.notion.site/1a5e21d1cc3d8068a9befb26f2ec79bb)
 
 ### 2주차 분량
 - Java 8~21 버전에 추가된 중요 기능들에 대하여서 설명해주세요.
