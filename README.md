@@ -22,7 +22,6 @@
 - Java final 키워드에 대해서 설명해주세요. 각각의 쓰임에 따라 어떻게 동작하나요? (Class, Variable) - (나겸)
   - [final 키워드](https://nagul2.tistory.com/458)
 - 불변 객체는 무엇이고 Java에서 어떻게 구현할까요? - (나겸)
-  
 - String이 final인 이유는 무엇인가요? - (나겸)
   - [불변 객체, String이 불변인 이유](https://nagul2.tistory.com/459)
 - 데이터 직렬화(Serialization)과 역직렬화(Deserialization)에 대해서 설명해 주세요. - (정민)
