@@ -15,7 +15,9 @@
 - Abstract Class가 사용되면 좋은 시점은 언제일까요? - (국민)
 - Interface와 Abstract Class를 같이 상속받는 경우에는 왜 그렇게 작성하였을까요? - (국민)
 - Java final 키워드에 대해서 설명해주세요. 각각의 쓰임에 따라 어떻게 동작하나요? (Class, Variable) - (나겸)
+  - [final 키워드](https://nagul2.tistory.com/458)
 - 불변 객체는 무엇이고 Java에서 어떻게 구현할까요? - (나겸)
+  
 - String이 final인 이유는 무엇인가요? - (나겸)
 - 데이터 직렬화(Serialization)과 역직렬화(Deserialization)에 대해서 설명해 주세요. - (정민)
 - Java Serialization은 왜 만들어졌고, 어떤 단점들이 있을까요? - (정민)
