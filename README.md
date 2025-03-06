@@ -14,6 +14,7 @@
 - Interface가 사용되면 좋은 시점은 언제일까요? - (국민)
 - Abstract Class가 사용되면 좋은 시점은 언제일까요? - (국민)
 - Interface와 Abstract Class를 같이 상속받는 경우에는 왜 그렇게 작성하였을까요? - (국민)
+  - [추상클래스와 인터페이스](https://velog.io/@mxcoogi/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4)
 - Java final 키워드에 대해서 설명해주세요. 각각의 쓰임에 따라 어떻게 동작하나요? (Class, Variable) - (나겸)
   - [final 키워드](https://nagul2.tistory.com/458)
 - 불변 객체는 무엇이고 Java에서 어떻게 구현할까요? - (나겸)
