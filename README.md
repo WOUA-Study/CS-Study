@@ -29,23 +29,24 @@
   - [계산기 만들다 제네릭한테 맞은 썰](https://luxurious-syzygy-94d.notion.site/1a5e21d1cc3d8068a9befb26f2ec79bb)
 
 ### 2주차 분량
-- Java 8~21 버전에 추가된 중요 기능들에 대하여서 설명해주세요.
-- Java의 Functional interface는 무엇인가요?
-- Java Stream API의 특징은 무엇이 있나요?
-- Java Lambda는 왜 만들어졌고, 어느 때 주로 사용할까요?
-- "재 정의된" equals와 ==의 차이는 무엇인가요?
-- hashCode의 의미는 무엇인가요?
-- Java Compiler는 문자열 연산 최적화를 어떻게 진행하나요? (String Builder, String...)
-- SringBuilder를 사용하는 것과 String을 사용하여 연산하는 것에서 어떠한 큰 차이가 존재할까요?
-- 문자열을 리터럴(`string = "abcd"`)로 할당하는 것과 객체(`string = new String("abcd")`)로 할당하는 방식의 차이가 무엇인가요?
-- Array와 ArrayList의 차이점은 무엇인가요?
-- LinkedList와 ArrayList의 차이점은 무엇인가요?
-- Stack을 사용하지 못하는 상황에서 대체할 수 있는 Collection은 무엇이 있을까요?
-- HashMap에 대해서 설명해주시고, Hash Collision 발생 시 자바는 어떻게 대처하나요?
-- Hash Collision이 많이 발생할 경우 어떤 최적화가 진행될까요?
-- foreach를 사용할 수 있는 자료구조는 어떤 인터페이스를 상속 받고 있나요?
-- iterator와 iterable 차이는 무엇인가요?
-- Fast-fail iterator는 무엇이고 어떤 것을 위해 사용되는 건가요?
+- Array와 ArrayList의 차이점은 무엇인가요? - (시습)
+- LinkedList와 ArrayList의 차이점은 무엇인가요? - (시습)
+- Stack을 사용하지 못하는 상황에서 대체할 수 있는 Collection은 무엇이 있을까요? - (시습)
+- "오버라이드 된" equals와 ==의 차이는 무엇인가요? - (시습)
+- hashCode의 의미는 무엇인가요? - (시습)
+- HashMap에 대해서 설명해주시고, Hash Collision 발생 시 자바는 어떻게 대처하나요? - (국민)
+- Hash Collision이 많이 발생할 경우 어떤 최적화가 진행될까요? - (국민)
+- Java Compiler는 문자열 연산 최적화를 어떻게 진행하나요? (String Builder, String...) - (국민)
+- SringBuilder를 사용하는 것과 String을 사용하여 연산하는 것에서 어떠한 큰 차이가 존재할까요? -(국민)
+- 문자열을 리터럴(`string = "abcd"`)로 할당하는 것과 객체(`string = new String("abcd")`)로 할당하는 방식의 차이가 무엇인가요? - (국민)
+- foreach를 사용할 수 있는 자료구조는 어떤 인터페이스를 상속 받고 있나요? - (나겸)
+- iterator와 iterable 차이는 무엇인가요? - (나겸)
+- Fast-fail iterator는 무엇이고 어떤 것을 위해 사용되는 건가요? - (나겸)
+- Java의 Functional interface는 무엇인가요? - (정민)
+- Java Lambda는 왜 만들어졌고, 어느 때 주로 사용할까요? - (정민)
+- Java Stream API의 특징은 무엇이 있나요? - (정민)
+- Java 8~21 버전에 추가된 중요 기능들에 대하여서 설명해주세요. - (정민)
+
 ### 여기까지 2주차
 - 자바의 synchronized 키워드에 대해 설명해주시고 Reentrant Lock와의 차이는 무엇인지 말씀해주세요.
 - Java의 synchronized Lock 범위에 대해서 알려주세요. (Class Lock, Instance Lock)
