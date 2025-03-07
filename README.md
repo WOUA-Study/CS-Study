@@ -7,13 +7,13 @@
 
 ## Java (52개)
 - 객체 지향 프로그래밍을 왜 사용한다고 생각하시나요? - (시습)
-- [객체지향프로그래밍] https://swaphome.tistory.com/7 
+  - [객체지향프로그래밍](https://swaphome.tistory.com/7) 
 - 객체 지향의 클래스, 객체, 인스턴스 차이에 대해서 설명해 주세요. - (시습)
-- [클래스, 객체, 인스턴스] https://swaphome.tistory.com/8
+  - [클래스, 객체, 인스턴스](https://swaphome.tistory.com/8)
 - Java 접근 제어자에는 무엇이 있는지 설명해주시고 Protect와 Private는 어느 시점에 어떻게 사용될 수 있는지 이야기 해주세요. - (시습)
-- [접근제어자] https://swaphome.tistory.com/9
+  - [접근제어자](https://swaphome.tistory.com/9)
 - Wrapper Class란 무엇이고 Primitive Type과의 차이는 무엇인가요? - (시습)
-- [래퍼클라스와 프리미티브 타입] https://swaphome.tistory.com/10
+  - [래퍼클라스와 프리미티브 타입](https://swaphome.tistory.com/10)
 - Interface와 Abstract Class의 차이는 무엇인가요? - (국민)
 - Interface가 사용되면 좋은 시점은 언제일까요? - (국민)
 - Abstract Class가 사용되면 좋은 시점은 언제일까요? - (국민)
