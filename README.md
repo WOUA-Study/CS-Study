@@ -44,6 +44,7 @@
 - Java Compiler는 문자열 연산 최적화를 어떻게 진행하나요? (String Builder, String...) - (국민)
 - SringBuilder를 사용하는 것과 String을 사용하여 연산하는 것에서 어떠한 큰 차이가 존재할까요? -(국민)
 - 문자열을 리터럴(`string = "abcd"`)로 할당하는 것과 객체(`string = new String("abcd")`)로 할당하는 방식의 차이가 무엇인가요? - (국민)
+  - [String StringBuilder](https://velog.io/@mxcoogi/String%EA%B3%BC-String-%EC%97%B0%EC%82%B0%EC%9D%98-%EC%B5%9C%EC%A0%81%ED%99%94)
 - Managed - Unmanaged 언어의 차이는 무엇이고 어떤 장, 단점이 있나요? - (나겸)
   - [Managed - Unmanaged 언어의 차이](https://nagul2.tistory.com/473)
 - Java는 Call By Value일까요, Call By Reference 일까요? - (나겸)
