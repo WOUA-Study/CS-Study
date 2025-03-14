@@ -39,6 +39,7 @@
 - "오버라이드 된" equals와 ==의 차이는 무엇인가요? - (시습)
 - hashCode의 의미는 무엇인가요? - (시습)
 - HashMap에 대해서 설명해주시고, Hash Collision 발생 시 자바는 어떻게 대처하나요? - (국민)
+  - [HashMap Hash Collision](https://velog.io/@mxcoogi/HashMap-HashCollision)
 - Hash Collision이 많이 발생할 경우 어떤 최적화가 진행될까요? - (국민)
 - Java Compiler는 문자열 연산 최적화를 어떻게 진행하나요? (String Builder, String...) - (국민)
 - SringBuilder를 사용하는 것과 String을 사용하여 연산하는 것에서 어떠한 큰 차이가 존재할까요? -(국민)
