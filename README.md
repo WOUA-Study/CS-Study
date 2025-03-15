@@ -34,6 +34,7 @@
 
 ### 2주차 분량
 - Array와 ArrayList의 차이점은 무엇인가요? - (시습)
+- [Array와 ArrayList의 차이점](https://swaphome.tistory.com/55)
 - LinkedList와 ArrayList의 차이점은 무엇인가요? - (시습)
 - Stack을 사용하지 못하는 상황에서 대체할 수 있는 Collection은 무엇이 있을까요? - (시습)
 - "오버라이드 된" equals와 ==의 차이는 무엇인가요? - (시습)
