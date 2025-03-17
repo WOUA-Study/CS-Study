@@ -49,6 +49,7 @@
 - Managed - Unmanaged 언어의 차이는 무엇이고 어떤 장, 단점이 있나요? - (나겸)
   - [Managed - Unmanaged 언어의 차이](https://nagul2.tistory.com/473)
 - Java는 Call By Value일까요, Call By Reference 일까요? - (나겸)
+  - [Java는 Call By Value로 동작함](https://nagul2.tistory.com/474)
 - Shallow Copy와 Deep Copy의 차이는 무엇인가요? 자바에서 Deep Copy를 하기 위해서는 무엇을 사용하여야 하나요? - (나겸)
   - [얕은 복사, 깊은 복사의 차이와 자바에서 Deep Copy 구현 방법](https://nagul2.tistory.com/475)
 - JVM은 어떤 방식으로 코드를 해석하고 실행시키는지 흐름에 맞게 설명해 주세요. (Java 실행 흐름) - (정민)
