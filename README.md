@@ -49,7 +49,6 @@
 - Managed - Unmanaged 언어의 차이는 무엇이고 어떤 장, 단점이 있나요? - (나겸)
   - [Managed - Unmanaged 언어의 차이](https://nagul2.tistory.com/473)
 - Java는 Call By Value일까요, Call By Reference 일까요? - (나겸)
-  - [Java는 Call By Value로 동작함](https://nagul2.tistory.com/474)
 - Shallow Copy와 Deep Copy의 차이는 무엇인가요? 자바에서 Deep Copy를 하기 위해서는 무엇을 사용하여야 하나요? - (나겸)
   - [얕은 복사, 깊은 복사의 차이와 자바에서 Deep Copy 구현 방법](https://nagul2.tistory.com/475)
 - JVM은 어떤 방식으로 코드를 해석하고 실행시키는지 흐름에 맞게 설명해 주세요. (Java 실행 흐름) - (정민)
@@ -58,23 +57,23 @@
 - Garbage Collector은 무엇이고, Parallel GC와 CMS GC, G1 GC, ZGC의 큰 차이는 무엇인지 설명해주세요. (mark-sweep-compact, concurrency-sweep, garbage-first) - (정민)
   - [자바 메모리 구조와 GC](https://luxurious-syzygy-94d.notion.site/Java-Memory-GC-19ee21d1cc3d8095ac8ee0abfc45252c)
 
-### 여기까지 2주차
-- foreach를 사용할 수 있는 자료구조는 어떤 인터페이스를 상속 받고 있나요?
-- iterator와 iterable 차이는 무엇인가요?
-- Fast-fail iterator는 무엇이고 어떤 것을 위해 사용되는 건가요?
-- Java의 Functional interface는 무엇인가요?
-- Java Lambda는 왜 만들어졌고, 어느 때 주로 사용할까요?
-- Java Stream API의 특징은 무엇이 있나요?
-- Java 8~21 버전에 추가된 중요 기능들에 대하여서 설명해주세요.
-- 하나의 쓰기 스레드와 여러 읽기 스레드가 존재할 때 사용되어야 하는 Java의 동기화 기능은 무엇이고 어떻게 동작하게 되는지 설명해주세요.
-- 스레드에서 Race condition에 대해서 설명해주세요.
-- 자바의 synchronized 키워드에 대해 설명해주시고 Reentrant Lock와의 차이는 무엇인지 말씀해주세요.
-- Java의 synchronized Lock 범위에 대해서 알려주세요. (Class Lock, Instance Lock)
-- volatile 키워드에 대해 설명해 주세요.
-- atomic Type과 CAS는 무엇이고 언제 사용되는 것인가요?
-- Vector와 Stack을 사용하지 않는 이유는 무엇인가요?
-- Lock Stripping은 무엇이고 어떠한 자료구조가 해당 방식을 구현하였나요?
-- ConcurrentHashMap은 어떤 방식으로 스레드 동시성을 보장하나요?
-- CopyOnWriteArrayList은 어떤 방식으로 스레드 동시성을 보장하나요?
-- Java Reflection이란 무엇이고, 어떨 때 사용되는 것인가요?
-- Java Instrumentation이란 무엇이고 사용했을 때 어떤 장점이 있을까요?
+### 3주차
+- foreach를 사용할 수 있는 자료구조는 어떤 인터페이스를 상속 받고 있나요? - (시습)
+- iterator와 iterable 차이는 무엇인가요? - (시습)
+- Fast-fail iterator는 무엇이고 어떤 것을 위해 사용되는 건가요? - (시습)
+- Java의 Functional interface는 무엇인가요? - (국민)
+- Java Lambda는 왜 만들어졌고, 어느 때 주로 사용할까요? - (국민)
+- Java Stream API의 특징은 무엇이 있나요? - (국민)
+- 하나의 쓰기 스레드와 여러 읽기 스레드가 존재할 때 사용되어야 하는 Java의 동기화 기능은 무엇이고 어떻게 동작하게 되는지 설명해주세요. - (나겸)
+- 스레드에서 Race condition에 대해서 설명해주세요. - (나겸)
+- 자바의 synchronized 키워드에 대해 설명해주시고 Reentrant Lock와의 차이는 무엇인지 말씀해주세요. - (나겸)
+- Java의 synchronized Lock 범위에 대해서 알려주세요. (Class Lock, Instance Lock) - (나겸)
+- volatile 키워드에 대해 설명해 주세요. - (나겸)
+- atomic Type과 CAS는 무엇이고 언제 사용되는 것인가요? - (나겸)
+- Vector와 Stack을 사용하지 않는 이유는 무엇인가요? - (정민)
+- Lock Stripping은 무엇이고 어떠한 자료구조가 해당 방식을 구현하였나요? - (정민)
+- ConcurrentHashMap은 어떤 방식으로 스레드 동시성을 보장하나요? - (정민)
+- CopyOnWriteArrayList은 어떤 방식으로 스레드 동시성을 보장하나요? - (정민)
+- Java Reflection이란 무엇이고, 어떨 때 사용되는 것인가요? - (정민)
+- Java Instrumentation이란 무엇이고 사용했을 때 어떤 장점이 있을까요? - (정민)
+- Java 8~21 버전에 추가된 중요 기능들에 대하여서 설명해주세요. - (정민)
