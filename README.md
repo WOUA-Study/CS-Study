@@ -67,6 +67,7 @@
 - Java Lambda는 왜 만들어졌고, 어느 때 주로 사용할까요? - (국민)
   - [자바 람다식과 함수형 인터페이스](https://velog.io/@mxcoogi/%EB%9E%8C%EB%8B%A4%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 - Java Stream API의 특징은 무엇이 있나요? - (국민)
+  - [자바 스트림](https://velog.io/@mxcoogi/JAVA-Stream)
 - 하나의 쓰기 스레드와 여러 읽기 스레드가 존재할 때 사용되어야 하는 Java의 동기화 기능은 무엇이고 어떻게 동작하게 되는지 설명해주세요. - (나겸)
 - 스레드에서 Race condition에 대해서 설명해주세요. - (나겸)
 - 자바의 synchronized 키워드에 대해 설명해주시고 Reentrant Lock와의 차이는 무엇인지 말씀해주세요. - (나겸)
