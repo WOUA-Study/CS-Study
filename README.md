@@ -92,7 +92,7 @@
 - Value Object, Data Transfer Object, Data Access Object 대해서 각각 설명해 주세요. (레이어드 아키텍처 같이)
 - Spring이란 무엇인가요? Spring이 이야기하는 장점에는 무엇들이 있을까요? (EJB와 비교해서 설명하면 좋을듯)
 - IoC, DI는 무엇이고 어떠한 장점이 있을까요? - (나겸)
-  - [IoC, DI, 스프링의 DI] (https://nagul2.tistory.com/484)
+  - [IoC, DI, 스프링의 DI](https://nagul2.tistory.com/484)
 - Spring IoC Container란 무엇인가요?
 - Spring Boot가 해결하려고 했던 문제는 무엇이고 어떻게 해결하였나요?
 - Bean이란 무엇인가요?
