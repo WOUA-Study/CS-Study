@@ -5,7 +5,7 @@
 틀린 내용이 있을 수 있으니 주의가 필요합니다.  
 질문은 Lob-dev님의 [Junior-Backend-Developer-Concepts 저장소](https://github.com/Lob-dev/Junior-Backend-Developer-Concepts/blob/main/50_Job%20interview.md)를 기반으로 합니다.
 
-## Java
+## Java (52개)
 - 객체 지향 프로그래밍을 왜 사용한다고 생각하시나요? - (시습)
   - [객체지향프로그래밍](https://swaphome.tistory.com/7) 
 - 객체 지향의 클래스, 객체, 인스턴스 차이에 대해서 설명해 주세요. - (시습)
@@ -31,6 +31,8 @@
 - Java Generic의 반공변, 공변, 무공변은 무엇인지 설명해주세요. - (정민)
   - [제네릭](https://luxurious-syzygy-94d.notion.site/1aae21d1cc3d80429ce0caadd6e7bfd2)
   - [계산기 만들다 제네릭한테 맞은 썰](https://luxurious-syzygy-94d.notion.site/1a5e21d1cc3d8068a9befb26f2ec79bb)
+
+### 2주차 분량
 - Array와 ArrayList의 차이점은 무엇인가요? - (시습)
   - [Array와 ArrayList의 차이점](https://swaphome.tistory.com/55)
 - LinkedList와 ArrayList의 차이점은 무엇인가요? - (시습)
@@ -88,6 +90,7 @@
 
 ## Spring
 - 프레임워크와 라이브러리 차이는 무엇인가요?
+  - [프레임워크와 라이브러리 차이: Spring과 JBDC](https://swaphome.tistory.com/96)
 - 디자인 패턴이란 무엇인가요?
 - Value Object, Data Transfer Object, Data Access Object 대해서 각각 설명해 주세요. (레이어드 아키텍처 같이)
 - Spring이란 무엇인가요? Spring이 이야기하는 장점에는 무엇들이 있을까요? (EJB와 비교해서 설명하면 좋을듯)
