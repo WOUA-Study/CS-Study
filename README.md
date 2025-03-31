@@ -94,6 +94,7 @@
   - [프레임워크와 라이브러리 차이: Spring과 JBDC](https://swaphome.tistory.com/96)
 - 디자인 패턴이란 무엇인가요?
 - Value Object, Data Transfer Object, Data Access Object 대해서 각각 설명해 주세요. (레이어드 아키텍처 같이)
+  - [DTO, VO](https://velog.io/@mxcoogi/DTO-%EC%99%80-VO%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - Spring이란 무엇인가요? Spring이 이야기하는 장점에는 무엇들이 있을까요? (EJB와 비교해서 설명하면 좋을듯)
 - IoC, DI는 무엇이고 어떠한 장점이 있을까요? - (나겸)
   - [IoC, DI, 스프링의 DI](https://nagul2.tistory.com/484)
