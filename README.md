@@ -5,7 +5,7 @@
 틀린 내용이 있을 수 있으니 주의가 필요합니다.  
 질문은 Lob-dev님의 [Junior-Backend-Developer-Concepts 저장소](https://github.com/Lob-dev/Junior-Backend-Developer-Concepts/blob/main/50_Job%20interview.md)를 기반으로 합니다.
 
-## Java
+## Java (52개)
 - 객체 지향 프로그래밍을 왜 사용한다고 생각하시나요? - (시습)
   - [객체지향프로그래밍](https://swaphome.tistory.com/7) 
 - 객체 지향의 클래스, 객체, 인스턴스 차이에 대해서 설명해 주세요. - (시습)
@@ -31,6 +31,8 @@
 - Java Generic의 반공변, 공변, 무공변은 무엇인지 설명해주세요. - (정민)
   - [제네릭](https://luxurious-syzygy-94d.notion.site/1aae21d1cc3d80429ce0caadd6e7bfd2)
   - [계산기 만들다 제네릭한테 맞은 썰](https://luxurious-syzygy-94d.notion.site/1a5e21d1cc3d8068a9befb26f2ec79bb)
+
+### 2주차 분량
 - Array와 ArrayList의 차이점은 무엇인가요? - (시습)
   - [Array와 ArrayList의 차이점](https://swaphome.tistory.com/55)
 - LinkedList와 ArrayList의 차이점은 무엇인가요? - (시습)
@@ -89,6 +91,7 @@
 
 ## Spring
 - 프레임워크와 라이브러리 차이는 무엇인가요?
+  - [프레임워크와 라이브러리 차이: Spring과 JBDC](https://swaphome.tistory.com/96)
 - 디자인 패턴이란 무엇인가요?
 - Value Object, Data Transfer Object, Data Access Object 대해서 각각 설명해 주세요. (레이어드 아키텍처 같이)
 - Spring이란 무엇인가요? Spring이 이야기하는 장점에는 무엇들이 있을까요? (EJB와 비교해서 설명하면 좋을듯)
@@ -107,10 +110,13 @@
 - Field Injection를 왜 사용하면 안된다고 하는 것인가요? 사용할 때 어떠한 단점이 있을까요?
 - (Field 주입과 대비하여) 생성자 주입은 빈 생성 때 사용되는 리플랙션 외에 추가적인 리플랙션을 진행하나요?
 - MVC 1, 2 개념에 대해서 설명해 주세요. - (정민)
+  - [MVC1, MVC2 차이점](https://my-simple-blog-phi.vercel.app/posts/mvc1-mvc2)
 - Front Controller Pattern은 무엇인가요? - (정민)
 - Dispatcher Servlet이란 무엇인가요? - (정민)
 - Spring MVC에서 HTTP 요청이 들어왔을 때의 흐름을 설명해 주세요. - (정민)
+  - [Dispatcher Servlet Internal](https://my-simple-blog-phi.vercel.app/posts/dispatcher-servlet-internal)
 - Interceptor와 Filter의 차이점을 말해주세요. - (정민)
+  - [Filter Interceptor 차이점](https://my-simple-blog-phi.vercel.app/posts/fitler-interceptor)
 - 스프링에서 Bean으로 Filter를 구현할 수 있을까요? 혹시나 가능하다면 어떻게 할 수 있을까요? - (정민)
 - Message Converter는 어느 시점에 사용되고 어떤 기능을 제공하나요? - (정민)
 - @Transactional를 스프링 Bean 메서드 A에 적용하였고, 해당 Bean의 메서드 B가 호출되었을 때 메서드 내부에서 메서드 A를 호출하면 어떤 요청 흐름이 발생하게 되나요?
