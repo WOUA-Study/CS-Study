@@ -69,6 +69,7 @@
 - Java Lambda는 왜 만들어졌고, 어느 때 주로 사용할까요? - (국민)
   - [자바 람다식과 함수형 인터페이스](https://velog.io/@mxcoogi/%EB%9E%8C%EB%8B%A4%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 - Java Stream API의 특징은 무엇이 있나요? - (국민)
+  - [자바 스트림](https://velog.io/@mxcoogi/JAVA-Stream)
 - 하나의 쓰기 스레드와 여러 읽기 스레드가 존재할 때 사용되어야 하는 Java의 동기화 기능은 무엇이고 어떻게 동작하게 되는지 설명해주세요. - (나겸)
 - 스레드에서 Race condition에 대해서 설명해주세요. - (나겸)
 - 자바의 synchronized 키워드에 대해 설명해주시고 Reentrant Lock와의 차이는 무엇인지 말씀해주세요. - (나겸)
@@ -93,6 +94,7 @@
   - [프레임워크와 라이브러리 차이: Spring과 JBDC](https://swaphome.tistory.com/96)
 - 디자인 패턴이란 무엇인가요?
 - Value Object, Data Transfer Object, Data Access Object 대해서 각각 설명해 주세요. (레이어드 아키텍처 같이)
+  - [DTO, VO](https://velog.io/@mxcoogi/DTO-%EC%99%80-VO%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - Spring이란 무엇인가요? Spring이 이야기하는 장점에는 무엇들이 있을까요? (EJB와 비교해서 설명하면 좋을듯)
 - IoC, DI는 무엇이고 어떠한 장점이 있을까요? - (나겸)
   - [IoC, DI, 스프링의 DI](https://nagul2.tistory.com/484)
