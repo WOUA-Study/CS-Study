@@ -97,6 +97,7 @@
 - Spring IoC Container란 무엇인가요? - (국민)
 - Bean이란 무엇인가요? - (시습)
 - Bean Scope와 종류에 대해 아는 만큼 설명해주세요. - (나겸)
+- [Bean Scope 아는만큼 설명하기](https://nagul2.tistory.com/491)
 - Configuration은 어떻게 Bean을 등록하고 관리할까요? (Singleton을 지키는 매커니즘은?)
 - Bean Lite Mode는 무엇인가요?
 - Spring Bean Life-cycle에 대해서 말해주세요.
