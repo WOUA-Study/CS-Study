@@ -106,6 +106,7 @@
 - Spring으로 개발하실 때 어떠한 DI 방식을 사용하시나요? 사용하는 이유는 무엇이 있는 것일까요? - (정민)
 - Field Injection를 왜 사용하면 안된다고 하는 것인가요? 사용할 때 어떠한 단점이 있을까요? - (정민)
 - (Field 주입과 대비하여) 생성자 주입은 빈 생성 때 사용되는 리플랙션 외에 추가적인 리플랙션을 진행하나요? - (정민)
+  - [Spring Dependency Injection 동작 원리](https://my-simple-blog-phi.vercel.app/posts/dependecny-injection-internal)
 - MVC 1, 2 개념에 대해서 설명해 주세요. - (정민)
   - [MVC1, MVC2 차이점](https://my-simple-blog-phi.vercel.app/posts/mvc1-mvc2)
 - Front Controller Pattern은 무엇인가요? - (정민)
