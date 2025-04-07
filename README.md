@@ -95,6 +95,7 @@
 - IoC, DI는 무엇이고 어떠한 장점이 있을까요? - (나겸)
   - [IoC, DI, 스프링의 DI](https://nagul2.tistory.com/484)
 - Spring IoC Container란 무엇인가요? - (국민)
+  - [Spring Ioc Container](https://velog.io/@mxcoogi/Spring-Ioc-Container)
 - Bean이란 무엇인가요? - (시습)
 - Bean Scope와 종류에 대해 아는 만큼 설명해주세요. - (나겸)
 - Configuration은 어떻게 Bean을 등록하고 관리할까요? (Singleton을 지키는 매커니즘은?)
