@@ -118,7 +118,8 @@
   - [Dispatcher Servlet Internal](https://my-simple-blog-phi.vercel.app/posts/dispatcher-servlet-internal)
 - Interceptor와 Filter의 차이점을 말해주세요. - (정민)
   - [Filter Interceptor 차이점](https://my-simple-blog-phi.vercel.app/posts/fitler-interceptor)
-- 스프링에서 Bean으로 Filter를 구현할 수 있을까요? 혹시나 가능하다면 어떻게 할 수 있을까요?
+- 스프링에서 Bean으로 Filter를 구현할 수 있을까요? 혹시나 가능하다면 어떻게 할 수 있을까요? - (정민)
+  - [Filter는 어떻게 Bean으로 등록될 수 있을까?](https://my-simple-blog-phi.vercel.app/posts/Filter-Spring-Context)
 - Message Converter는 어느 시점에 사용되고 어떤 기능을 제공하나요?
 - @Transactional를 스프링 Bean 메서드 A에 적용하였고, 해당 Bean의 메서드 B가 호출되었을 때 메서드 내부에서 메서드 A를 호출하면 어떤 요청 흐름이 발생하게 되나요?
 - Spring AOP는 어떻게 동작할까요? (프록시는 언제 생성되고 요청은 어떻게 잡아내나요?)
