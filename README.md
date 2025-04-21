@@ -140,6 +140,7 @@
 - 인덱스는 왜 사용하는 것인가요? - (국민)
 - 인덱스는 크게 Hash 인덱스와 B-Tree 인덱스가 있습니다. 어떠한 차이가 있을까요? - 국민
 - B-Tree 인덱스와 B+-Tree 인덱스의 차이는 무엇인가요? - 국민
+  - [index 구조](https://velog.io/@mxcoogi/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B5%AC%EC%A1%B0)
 - Transcational의 ACID 속성에 대해서 아시나요?
 - 인덱스 Scan 방식은 무엇이 있나요?
 - 클러스터 인덱스와 논클러스터 인덱스는 어떤 차이가 있나요?
