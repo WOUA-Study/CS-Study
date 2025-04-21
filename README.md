@@ -102,6 +102,7 @@
 - [Bean Scope 아는만큼 설명하기](https://nagul2.tistory.com/491)
 - Configuration은 어떻게 Bean을 등록하고 관리할까요? (Singleton을 지키는 매커니즘은?)
 - Bean Lite Mode는 무엇인가요?
+  - [Configuration 과 Bean](https://luxurious-syzygy-94d.notion.site/WOUA-1dbe21d1cc3d8003a853d7a51f9e976c?pvs=4)
 - Spring Bean Life-cycle에 대해서 말해주세요.
 - @Bean과 @Component은 각각 언제 사용되고 어떤 차이점을 가지나요?
 - Spring Boot가 해결하려고 했던 문제는 무엇이고 어떻게 해결하였나요?
