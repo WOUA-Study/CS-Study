@@ -163,6 +163,7 @@
 - S lock, IS lock, X lock, IX lock에 대해서 아시나요? - 나겸
   - [데이터베이스 락, S, IS, X, IX 락, 낙관적/비관적 락](https://nagul2.tistory.com/496)
 - MVCC
+  - [MVCC 설명 - 쉬운코드 유튜브 설명 정리 + SSI개념 일부](https://nagul2.tistory.com/498)
 - Redo Log, Undo Log, Gap Lock, Next-Key Lock
 - Optimistic Lock에 대해서 아시나요?
 - InnoDB의 Consistent Non-Locking Read 기능이 무엇인지 아시나요?
