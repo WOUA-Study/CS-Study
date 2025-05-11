@@ -201,3 +201,8 @@
 - JPA N+1 문제를 해결하는 방법들을 아는 만큼 설명해주세요.
 - Entity와 Value Object를 구분 지을만한 요소가 무엇이 있을지 말씀해주세요. (무엇이 엔티티로 선언되고, 무엇이 벨류 오브젝트로 선언되는지? 그 구분점은?)
 - QueryDSL 같은 JPQL Builder를 사용하는 이유를 설명해주세요.
+
+## Infra
+
+- chroot와 컨테이너 기술의 상관 관계에 대해서 설명해주세요.
+  - [컨테이너 원리 알아보기 1편 - Chroot](https://velog.io/@raon37910/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9B%90%EB%A6%AC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%8E%B8-Chroot)
