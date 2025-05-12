@@ -59,6 +59,7 @@
 - Garbage Collector은 무엇이고, Parallel GC와 CMS GC, G1 GC, ZGC의 큰 차이는 무엇인지 설명해주세요. (mark-sweep-compact, concurrency-sweep, garbage-first) - (정민)
   - [자바 메모리 구조와 GC](https://luxurious-syzygy-94d.notion.site/Java-Memory-GC-19ee21d1cc3d8095ac8ee0abfc45252c)
 - foreach를 사용할 수 있는 자료구조는 어떤 인터페이스를 상속 받고 있나요? - (시습)
+  - [foreach문(향상된 for문) 사용조건](https://swaphome.tistory.com/162)
 - iterator와 iterable 차이는 무엇인가요? - (시습)
 - Fast-fail iterator는 무엇이고 어떤 것을 위해 사용되는 건가요? - (시습)
 - Java의 Functional interface는 무엇인가요? - (국민)
