@@ -123,6 +123,7 @@
   - [Filter는 어떻게 Bean으로 등록될 수 있을까?](https://my-simple-blog-phi.vercel.app/posts/Filter-Spring-Context)
 - Message Converter는 어느 시점에 사용되고 어떤 기능을 제공하나요?
 - @Transactional를 스프링 Bean 메서드 A에 적용하였고, 해당 Bean의 메서드 B가 호출되었을 때 메서드 내부에서 메서드 A를 호출하면 어떤 요청 흐름이 발생하게 되나요?
+  - [트랜잭션 내부호출](https://velog.io/@mxcoogi/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
 - Spring AOP는 어떻게 동작할까요? (프록시는 언제 생성되고 요청은 어떻게 잡아내나요?)
 - Spring AOP는 CTW, PCW, LTW, RTW 중에 무엇일까요?
 - Dynamic Proxy의 CTW, BTW, LTW, RTW은 각각 어떤 시점에 개입하는 것일까요?
