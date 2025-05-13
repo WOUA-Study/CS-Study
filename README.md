@@ -59,6 +59,7 @@
 - Garbage Collector은 무엇이고, Parallel GC와 CMS GC, G1 GC, ZGC의 큰 차이는 무엇인지 설명해주세요. (mark-sweep-compact, concurrency-sweep, garbage-first) - (정민)
   - [자바 메모리 구조와 GC](https://luxurious-syzygy-94d.notion.site/Java-Memory-GC-19ee21d1cc3d8095ac8ee0abfc45252c)
 - foreach를 사용할 수 있는 자료구조는 어떤 인터페이스를 상속 받고 있나요? - (시습)
+  - [foreach문(향상된 for문) 사용조건](https://swaphome.tistory.com/162)
 - iterator와 iterable 차이는 무엇인가요? - (시습)
 - Fast-fail iterator는 무엇이고 어떤 것을 위해 사용되는 건가요? - (시습)
 - Java의 Functional interface는 무엇인가요? - (국민)
@@ -163,6 +164,10 @@
 - 2-Phase Commit이 무엇인지 아시나요?
 - S lock, IS lock, X lock, IX lock에 대해서 아시나요? - 나겸
   - [데이터베이스 락, S, IS, X, IX 락, 낙관적/비관적 락](https://nagul2.tistory.com/496)
+- MVCC
+  - [MVCC 설명 - 쉬운코드 유튜브 설명 정리 + SSI개념 일부](https://nagul2.tistory.com/498)
+- Redo Log, Undo Log,
+  - [Redo Log, Undo Log](https://nagul2.tistory.com/499)
 - Optimistic Lock에 대해서 아시나요?
 - InnoDB의 Consistent Non-Locking Read 기능이 무엇인지 아시나요?
 - Gap, Record, Next Key Lock에 대해서 아시나요?
@@ -199,3 +204,8 @@
 - JPA N+1 문제를 해결하는 방법들을 아는 만큼 설명해주세요.
 - Entity와 Value Object를 구분 지을만한 요소가 무엇이 있을지 말씀해주세요. (무엇이 엔티티로 선언되고, 무엇이 벨류 오브젝트로 선언되는지? 그 구분점은?)
 - QueryDSL 같은 JPQL Builder를 사용하는 이유를 설명해주세요.
+
+## Infra
+
+- chroot와 컨테이너 기술의 상관 관계에 대해서 설명해주세요.
+  - [컨테이너 원리 알아보기 1편 - Chroot](https://velog.io/@raon37910/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9B%90%EB%A6%AC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%8E%B8-Chroot)
